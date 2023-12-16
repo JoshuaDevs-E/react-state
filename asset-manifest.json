@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-state-management.git/static/css/main.6ccd65a8.css",
-    "main.js": "/React-state-management.git/static/js/main.36edecc8.js",
-    "static/js/787.e876b254.chunk.js": "/React-state-management.git/static/js/787.e876b254.chunk.js",
-    "index.html": "/React-state-management.git/index.html",
-    "main.6ccd65a8.css.map": "/React-state-management.git/static/css/main.6ccd65a8.css.map",
-    "main.36edecc8.js.map": "/React-state-management.git/static/js/main.36edecc8.js.map",
-    "787.e876b254.chunk.js.map": "/React-state-management.git/static/js/787.e876b254.chunk.js.map"
+    "main.css": "/react-state.git/static/css/main.6ccd65a8.css",
+    "main.js": "/react-state.git/static/js/main.9e00833e.js",
+    "static/js/787.e876b254.chunk.js": "/react-state.git/static/js/787.e876b254.chunk.js",
+    "index.html": "/react-state.git/index.html",
+    "main.6ccd65a8.css.map": "/react-state.git/static/css/main.6ccd65a8.css.map",
+    "main.9e00833e.js.map": "/react-state.git/static/js/main.9e00833e.js.map",
+    "787.e876b254.chunk.js.map": "/react-state.git/static/js/787.e876b254.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ccd65a8.css",
-    "static/js/main.36edecc8.js"
+    "static/js/main.9e00833e.js"
   ]
 }
