@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-state-management.git/static/css/main.6ccd65a8.css",
+    "main.js": "/React-state-management.git/static/js/main.36edecc8.js",
+    "static/js/787.e876b254.chunk.js": "/React-state-management.git/static/js/787.e876b254.chunk.js",
+    "index.html": "/React-state-management.git/index.html",
+    "main.6ccd65a8.css.map": "/React-state-management.git/static/css/main.6ccd65a8.css.map",
+    "main.36edecc8.js.map": "/React-state-management.git/static/js/main.36edecc8.js.map",
+    "787.e876b254.chunk.js.map": "/React-state-management.git/static/js/787.e876b254.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ccd65a8.css",
+    "static/js/main.36edecc8.js"
+  ]
+}
